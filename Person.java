@@ -1,5 +1,5 @@
 public class Person {
-	private String username;
+	private String user;
 	private String password;
 }
 
